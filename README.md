@@ -13,7 +13,7 @@ This repository serves as a technical record of laboratory work and conceptual m
 **CMPEN 331: Computer Organization and Design**
 * **Focus:** MIPS Architecture and Processor Datapath.
 * **Mastery:** Simulating 5-stage pipelines, instruction execution, and memory hierarchy.
-* **Tools:** Xilinx Vivado.
+* **Tools:** Xilinx Vivado & MARS.
 
 **CMPEN 270: Digital Design**
 * **Focus:** Combinational and sequential logic.
