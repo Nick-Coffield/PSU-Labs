@@ -13,7 +13,7 @@ This repository serves as a technical record of laboratory work and conceptual m
 **CMPEN 331: Computer Organization and Design**
 * **Focus:** MIPS Architecture and Processor Datapath.
 * **Mastery:** Simulating 5-stage pipelines, instruction execution, and memory hierarchy.
-* **Tools:** Xilinx Vivado & MARS.
+* **Tools:** Xilinx Vivado, MARS.
 
 **CMPEN 270: Digital Design**
 * **Focus:** Combinational and sequential logic.
@@ -40,5 +40,5 @@ This repository serves as a technical record of laboratory work and conceptual m
 
 ### Technical Toolkit Summary
 * **Languages:** Java, Python, C++, Verilog.
-* **Simulation:** Vivado Design Suite, NI Multisim.
+* **Simulation:** Vivado Design Suite, MARS, NI Multisim.
 * **Hardware:** NI MyDAQ, Function Generators, Logic Analyzers.
